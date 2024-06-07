@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eitgidi.github.io/sitemap/sitemap.txt
